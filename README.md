@@ -12,7 +12,7 @@
     <tbody>
         <tr>
             <td>2022-01-09</td>
-            <td>2022-10-30</td>
+            <td>2022-09-30</td>
             <td>netlands Edv Consultin GmbH</td>
             <td>Full-Stack WebDeveloper</td>
             <td>Programming Languages: php, JavaScript, TypeScript <br />
