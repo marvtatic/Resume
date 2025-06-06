@@ -21,7 +21,7 @@
         </tr>
         <tr>
             <td>2023-11-01</td>
-            <td>-2025-06-04-</td>
+            <td>2025-06-04</td>
             <td>SSH Software und Systemberatung GmbH</td>
             <td>C# Softwaredeveloper</td>
             <td>Programming Languages: C#, VB.net<br />
