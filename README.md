@@ -2,8 +2,6 @@
 
 Ich bin ausgebildeter Fachinformatiker für Anwendungsentwicklung. Während meiner Ausbildungszeit hatte ich die Möglichkeit, in zwei verschiedenen Unternehmen praktische Erfahrungen in der professionellen Softwareentwicklung zu sammeln. Dabei konnte ich meine Kenntnisse in der Webentwicklung sowie in der Desktop- und Backend-Entwicklung mit verschiedenen Technologien vertiefen.
 
-## Résumé
-
 <table>
     <thead>
         <tr>
