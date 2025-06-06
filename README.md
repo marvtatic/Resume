@@ -12,7 +12,7 @@
     <tbody>
         <tr>
             <td>2022-01-09</td>
-            <td>2022-09-30</td>
+            <td>2023-09-30</td>
             <td>netlands Edv Consultin GmbH</td>
             <td>Full-Stack WebDeveloper</td>
             <td>Programming Languages: php, JavaScript, TypeScript <br />
@@ -20,7 +20,7 @@
             </td>
         </tr>
         <tr>
-            <td>2022-11-01</td>
+            <td>2023-11-01</td>
             <td>- / -</td>
             <td>SSH Software und Systemberatung GmbH</td>
             <td>C# Softwaredeveloper</td>
