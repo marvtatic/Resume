@@ -2,12 +2,13 @@
 
 Ich bin ausgebildeter Fachinformatiker für Anwendungsentwicklung. Während meiner Ausbildungszeit hatte ich die Möglichkeit, in zwei verschiedenen Unternehmen praktische Erfahrungen in der professionellen Softwareentwicklung zu sammeln. Dabei konnte ich meine Kenntnisse in der Webentwicklung sowie in der Desktop- und Backend-Entwicklung mit verschiedenen Technologien vertiefen.
 
+
 <table>
     <thead>
         <tr>
-            <th>Anfangsdatum</th>
-            <th>Enddatum</th>
-            <th>Unternhemen</th>
+            <th>Von</th>
+            <th>Bis</th>
+            <th>unternehmen</th>
             <th>Position</th>
             <th>Tech-Stack</th>
         </tr>
@@ -27,7 +28,7 @@ Ich bin ausgebildeter Fachinformatiker für Anwendungsentwicklung. Während mein
             <td>2023-11-01</td>
             <td>2025-06-04</td>
             <td>SSH Software und Systemberatung GmbH</td>
-            <td>VB.NET & C# Softwareentwickler</td>
+            <td>C# Softwareentwickler</td>
             <td>
                 Programmiersprachen: C#, VB.NET<br/>
                 Frameworks: Blazor.NET, .NET 8.0
@@ -46,30 +47,30 @@ Bei netlands war ich als **Full-Stack Webentwickler** tätig. Dort habe ich mode
 - Entwicklung von Webanwendungen mit Laravel im Backend und Vue.js im Frontend
 - Umsetzung REST-basierter Schnittstellen
 - Erstellung dynamischer Benutzeroberflächen mit JavaScript und TypeScript
-- Nutzung relationaler Datenbanken (MySQL) sowie deren Anbindung über Eloquent ORM
-- Einsatz von Git zur Versionsverwaltung im Team
-- Umsetzung responsiver Designs mit Tailwind CSS
-- Arbeiten in agilen Prozessen mit Jira und regelmäßigen Stand-Ups
+- Nutzung relationaler Datenbanken (MySQL)
+- Einsatz von Git & GitLab zur Versionsverwaltung im Team
+- Gestaltung von Benutzeroberflächen mit **Bootstrap**
 
 ---
 
 ### SSH Software und Systemberatung GmbH
 
-Aktuell arbeite ich bei SSH als **Softwareentwickler mit Schwerpunkt C# und .NET**. In dieser Rolle entwickle ich eine Blazor-basierte Webanwendung zur Darstellung von Kundeninformationen und Statusdaten aus internen Softwarediensten.
+Bei SSH war ich als **Softwareentwickler mit Schwerpunkt VB.net / C#** im ERP-Umfeld tätig. Mein Aufgabenbereich war vielfältig und praxisnah:
 
-**Technische Schwerpunkte & Projektinhalte:**
-- Erstellung einer Single Page Application mit Blazor Server
-- Anbindung an SQL Server mittels Entity Framework Core
-- Aufbau eines Dashboards zur Darstellung von:
+**Meine Aufgaben und Erfahrungen:**
+- Durchführung **kundenspezifischer Anpassungen** an ERP-Modulen
+- Entwicklung und Pflege interner Module für ein bestehendes ERP-System
+- **Automatisierung von Updates** für ERP-Komponenten und Module
+- Regelmäßige **Code-Reviews im Team** zur Qualitätssicherung und Wissensaustausch
+- Parallelentwicklung einer internen **Blazor Webanwendung** zur Visualisierung von:
   - Kundeninformationen
-  - Applikationsprotokollen (Logs)
-  - Statusinformationen interner Softwaredienste
-- Statusanzeigen in farblich kodierten Karten (Grün = aktiv, Gelb = Warnung, Rot = inaktiv)
-- Implementierung eines benutzerdefinierten Login-/Registrierungssystems
-- Erstellung einer Logging-DLL, die Daten aus Drittanwendungen abgreift, verarbeitet und abspeichert
-- Nutzung von LINQ für performante Datenfilterung
-- Erfahrung mit dem Blazor Server Hosting-Modell inklusive SignalR zur Echtzeit-Kommunikation
+  - Protokollen aus internen Softwarediensten
+  - Statusanzeigen in farblich kodierten Komponenten
+- Nutzung von SQL Server und Entity Framework Core
+- Umsetzung eines individuellen Login-/Registrierungssystems
+- Programmierung einer Logging-DLL zur Verarbeitung und Persistierung von Logdaten
+- Verwendung von LINQ für dynamische Filterung und Datenverarbeitung
 
 ---
 
-Diese Stationen haben mir nicht nur tiefgreifende Kenntnisse in der Entwicklung moderner Anwendungen vermittelt, sondern auch meine Fähigkeit gestärkt, komplexe Anforderungen strukturiert und eigenverantwortlich umzusetzen – sowohl im Team als auch im Alleingang.
+Diese Stationen haben mir nicht nur tiefgreifende Kenntnisse in der Entwicklung moderner Anwendungen vermittelt, sondern auch meine Fähigkeit gestärkt, komplexe Anforderungen strukturiert und eigenverantwortlich umzusetzen sowohl im Team als auch eigenständig.
