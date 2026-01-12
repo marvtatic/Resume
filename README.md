@@ -34,6 +34,16 @@ Ich bin ausgebildeter Fachinformatiker für Anwendungsentwicklung. Während mein
                 Frameworks: Blazor.NET, .NET 8.0
             </td>
         </tr>
+        <tr>
+            <td>2025-10-01</td>
+            <td>2026-02-15</td>
+            <td>Kummert Innovations GmbH</td>
+            <td>C# Softwareentwickler</td>
+            <td>
+                Programmiersprachen: C#<br/>
+                Frameworks: .NET9.0 / .NET10.0
+            </td>
+        </tr>
     </tbody>
 </table>
 
