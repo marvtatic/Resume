@@ -73,4 +73,14 @@ Bei SSH war ich als **Softwareentwickler mit Schwerpunkt VB.net / C#** im ERP-Um
 
 ---
 
+### Kummert Innovations GmbH
+
+Bei der Kummert Innovations GmbH wurde ich als **Softwreentwickler C# eingesetzt - Das Aufgabengebiet war die Anbindung einer externen API an bestehende Projekte.
+- Durchführung der Anforderungen von Stakeholdern
+- Entwicklung und Konzeption von Bestehenden und neuen Anwendungen unter Einhaltung Code Guidlines
+- Agiles Umfeld in stetig wachsender Anwendung
+- Umstrukturieren von Projekten auf zukunftsorienterte neue Lösungen
+
+---
+
 Diese Stationen haben mir nicht nur tiefgreifende Kenntnisse in der Entwicklung moderner Anwendungen vermittelt, sondern auch meine Fähigkeit gestärkt, komplexe Anforderungen strukturiert und eigenverantwortlich umzusetzen sowohl im Team als auch eigenständig.
